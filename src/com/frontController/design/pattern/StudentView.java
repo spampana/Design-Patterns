@@ -1,7 +1,0 @@
-package com.frontController.design.pattern;
-
-public class StudentView {
-	public void show(){
-	      System.out.println("Displaying Student Page");
-	   }
-}
